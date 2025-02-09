@@ -1,0 +1,3 @@
+// Abyssal Edge
+dimwishlist:item=547165496&perks=1749209109,3201496230
+dimwishlist:item=547165496&perks=1749209109,3708227201
